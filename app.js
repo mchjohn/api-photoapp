@@ -47,6 +47,10 @@ app.get('/photos', (req, res) => {
       {
        "id": "7",
         "url": "https://res.cloudinary.com/sk84all/image/upload/v1620947207/photoapp/pexels-victoria-borodinova_qxctcj.jpg"
+      },
+      {
+       "id": "8",
+        "url": "https://res.cloudinary.com/sk84all/image/upload/v1620947563/photoapp/skate-ollie-bw_ehg9kb.jpg"
       }
     ]
   })
