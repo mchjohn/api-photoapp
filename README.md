@@ -1,2 +1,2 @@
 # api-photoapp
-Api para a aplicação PhotoApp
+Api para a aplicação PhotoApp.
